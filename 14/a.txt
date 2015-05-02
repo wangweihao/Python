@@ -1,0 +1,7 @@
+总用量 20
+drwxrwxr-x  2 wwh wwh 4096  5月  2 12:57 .
+drwxrwxr-x 17 wwh wwh 4096  5月  1 20:47 ..
+-rw-rw-r--  1 wwh wwh   69  5月  2 12:49 a.py
+-rw-rw-r--  1 wwh wwh  206  5月  2 12:49 a.pyc
+-rw-rw-r--  1 wwh wwh    0  5月  2 12:57 a.txt
+-rw-rw-r--  1 wwh wwh  117  5月  2 12:38 python.py
