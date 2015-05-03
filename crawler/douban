@@ -232,7 +232,7 @@
         <div class="rating">
           <span class="allstar45"></span>
           <span class="rating_nums">8.8</span>
-          <span>10309人评价</span>
+          <span>10310人评价</span>
         </div>
         
       
@@ -260,7 +260,7 @@
         <div class="rating">
           <span class="allstar45"></span>
           <span class="rating_nums">8.7</span>
-          <span>5986人评价</span>
+          <span>5988人评价</span>
         </div>
         
       
@@ -400,7 +400,7 @@
         <div class="rating">
           <span class="allstar50"></span>
           <span class="rating_nums">9.4</span>
-          <span>3200人评价</span>
+          <span>3201人评价</span>
         </div>
         
       
@@ -512,7 +512,7 @@
         <div class="rating">
           <span class="allstar45"></span>
           <span class="rating_nums">8.6</span>
-          <span>170人评价</span>
+          <span>171人评价</span>
         </div>
         
       
@@ -568,7 +568,7 @@
         <div class="rating">
           <span class="allstar45"></span>
           <span class="rating_nums">9.2</span>
-          <span>1524人评价</span>
+          <span>1526人评价</span>
         </div>
         
       
@@ -794,12 +794,12 @@ if (window.addEventListener) {
 
 
 
-    <!-- nain1-->
+    <!-- nain2-->
 
-  <script>_SPLITTEST='movie.tv-chart-gaia'</script>
+  <script>_SPLITTEST=''</script>
 
 <script>var _check_hijack = function () {
-    var _sig = "qcDvWJ43", _login = false, bid = get_cookie('bid');
+    var _sig = "orDCEWSk", _login = false, bid = get_cookie('bid');
     if (location.protocol != "file:" && (
             typeof(bid) != "string" && _login ||
             typeof(bid) == "string" && bid.substring(0,8) != _sig)) {

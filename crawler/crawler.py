@@ -23,7 +23,7 @@ x = 0
 if m is not None:
     for i in m:
         print i
-        urllib.urlretrieve(i, '%s.jpg' % x)
+        urllib.urlretrieve(i, './data/%s.jpg' % x)
         x += 1
 else:
     print 'not found'
